@@ -3,9 +3,9 @@
 
 ## Introducción
 
-Durante la práctica se implementaron una serie de TAD (Tipos Abstractos de Datos) para dar soporte a una aplicación de gestión de eventos deportivos, para la cual también se modelaron los objetos correspondientes, y las estructuras que los gestionan, estudiados en la PEC1 de la asignatura.
+Durante la práctica se implementaron una serie de TAD (Tipos Abstractos de Datos) para dar soporte a una aplicación de gestión de eventos deportivos, para la cual también se modelaron los objetos correspondientes, y las estructuras que los gestionan, estudiadas en la PEC1 de la asignatura.
 
-Se desarrollón también una batería de excepciones que contemplan e informan de los posibles errores o limitaciones al interactuar con la aplicación.
+Se desarrollarón también una batería de excepciones que contemplan e informan de los posibles errores o limitaciones al interactuar con la aplicación.
 
 Por último, se añadieron test adicionales para evaluar el correcto funcionamiento de los TADs implementados (OrderedVector y DictionaryOrderedVector).
 
